@@ -6,7 +6,7 @@ My knowledge in Software Modeling
 
 Modelagem de Software: Aborda o processo de desenvolvimento do mesmo que consiste em várias fases. 
 
-1- Levantamento de Requisitos que estabelece quais funcionalidades o sistema deverá ter e exercer. 
+1- Levantamento de Requisitos compreende o problema, e estabelece quais funcionalidades o sistema deverá ter e exercer. 
 
 2- Análise: Diagramas são feitos utilzando uma UML pra servir de esboço. No intuito de ajudar a visualizar e entender o software antes de começar a codifica-lo.
 
