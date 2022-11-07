@@ -4,7 +4,7 @@ My knowledge in Software Modeling
 #### Meu nome é Rian Gomes, estudante de Ciências da Computação na UNA. 
 #### Abaixo listei meu conhecimento na matéria Modelagem de Software: 
 
-Modelagem de Software: Abordou o processo de desenvolvimento do mesmo que consiste em várias fases. 
+Modelagem de Software: Aborda o processo de desenvolvimento do mesmo que consiste em várias fases. 
 
 1- Levantamento de Requisitos que estabelece quais funcionalidades o sistema deverá ter e exercer. 
 
